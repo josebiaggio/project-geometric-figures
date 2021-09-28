@@ -1,0 +1,23 @@
+{
+  "name": "project-geometric-figures",
+  "version": "1.0.0",
+  "description": "A project developed using the observer pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josebiaggio/project-geometric-figures.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josebiaggio/project-geometric-figures/issues"
+  },
+  "homepage": "https://github.com/josebiaggio/project-geometric-figures#readme",
+  "dependencies": {
+    "rxjs": "^7.3.0"
+  }
+}
